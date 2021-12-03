@@ -6,7 +6,7 @@
 
 ## DATA source
 
-- Genotype and metadata used in the analysis were downloaded from (I) section of [Reich lab's Simons Genome project Repository](https://reichdata.hms.harvard.edu/pub/datasets/sgdp/)<sup>1</sup> and [1000 genome project phase 3 data]() of the the International Genome Sample Resource<sup>2</sup>.
+- Genotype and metadata used in the analysis were downloaded from (I) section of [Reich lab's Simons Genome project Repository](https://reichdata.hms.harvard.edu/pub/datasets/sgdp/)<sup>1</sup> and [1000 genome project phase 3 data](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/) of the the International Genome Sample Resource<sup>2</sup>.
 
 - for g1k data, only Biallelic sites were extracted.
 
